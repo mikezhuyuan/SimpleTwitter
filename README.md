@@ -8,6 +8,6 @@ A simple tweeter client for purpose of learning Objective-C and Cocoas Touch API
 
 ## Screenshots
 ### Tweet list
-![tweets list](https://raw.github.com/mikezhuyuan/simpletwitter/master/public/images/screenshot_post_tweet.png)
+![tweets list](https://raw.github.com/mikezhuyuan/SimpleTwitter/master/screenshot_post_tweet.png)
 ### Post tweet
-![post tweet](https://raw.github.com/mikezhuyuan/simpletwitter/master/public/images/screenshot_tweet_list.png)
+![post tweet](https://raw.github.com/mikezhuyuan/SimpleTwitter/master/screenshot_tweet_list.png)
